@@ -1,4 +1,4 @@
-# Nextjs Animated Slider 🚀
+# Nextjs Animated Sliders 🚀
 
 Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
 
